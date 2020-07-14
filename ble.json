@@ -42,6 +42,17 @@
     "y": "0.5"
   }
 },
+ {
+  "tag":"BLUEBERRY_"2,
+  "format" :"IBeacon",
+  "id1": "b9407f30-f5f8-466e-aff9-25556b57fe6d",
+  "id2": "11906",
+  "id3": "34565",
+  "location": {
+    "x": "0.63",
+    "y": "6.10"
+  }
+},
 {
   "tag":"S7",
   "format" :"IBeacon",
